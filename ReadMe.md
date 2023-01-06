@@ -1,0 +1,2 @@
+This tool was originally created for the MetricDAOs' bounty: Open Analytics - 5. Solana Megadashboard to check 
+the temperature on #solana affetced by leaving the top 2 NFT projects announcement(DeGods and y00ts)!).

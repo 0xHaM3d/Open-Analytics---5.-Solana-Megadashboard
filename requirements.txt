@@ -1,0 +1,7 @@
+shroomdk
+pandas
+plotly
+streamlit
+plotly.express
+plotly.graph_objects
+plotly.subplots 
